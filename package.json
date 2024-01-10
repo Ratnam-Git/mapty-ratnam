@@ -1,0 +1,17 @@
+{
+  "name": "mapty-by-ratnam",
+  "version": "1.0.0",
+  "description": "",
+  "default": "script.js",
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html --dist-dir ./dist"
+  },
+  "author": "ratnam",
+  "license": "ISC",
+  "dependencies": {
+    "core-js": "^3.35.0",
+    "parcel": "^2.0.0-beta.1",
+    "regenerator-runtime": "^0.14.1"
+  }
+}
